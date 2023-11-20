@@ -35,3 +35,7 @@ docker build -t esmaelfilho/fullcycle-go .
 docker run --rm esmaelfilho/fullcycle-go
 ```
 
+## PULL
+```
+docker pull esmaelfilho/fullcycle-go
+```
