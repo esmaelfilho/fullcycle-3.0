@@ -3,7 +3,7 @@
 # Link das Image no Docker Hub
 Clique no nome do desafio para acessar a image no Docker Hub
 -  [Image Desafio GO](https://hub.docker.com/repository/docker/esmaelfilho/fullcycle-go/general)
--  [Image Desafio Nginx com Node](https://hub.docker.com/repository/docker/esmaelfilho/fullcycle-go/general)
+
 
 
 # Desafio GO
